@@ -4,6 +4,6 @@
       <title>Benim Sayfam</title>
    </head>
    <body>
-      Bu benim ilk sayfam... 
+      Bu benim ilk sayfamdır... 
    </body>
    </html>
